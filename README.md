@@ -1,4 +1,4 @@
-# Birdd
+# Birdd Target
 Описание проекта
 
 Игра: Birdd Target
